@@ -16,35 +16,6 @@
 <link rel="stylesheet" href="<?php echo theme_url('/css/style.css'); ?>">
 <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="<?php echo theme_url('/css/sharing.css'); ?>">
-<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
-<script type="text/javascript">
-try {
-reinvigorate.track("6q37m-6x63boym4j");
-} catch(err) {}
-</script>
-<script type="text/javascript">
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '51f31818f5a1f54018000001');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-77935-21', 'vpsstat.us');
-  ga('send', 'pageview');
-
-</script>
 <script src="<?php echo theme_url('/js/vendor/custom.modernizr.js'); ?>"></script>
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
@@ -71,7 +42,7 @@ reinvigorate.track("6q37m-6x63boym4j");
     <div class="large-12 columns">
       <nav id="main-nav">
   <div class="logo">
-    <a href="/">
+    <a href="<?php echo base_url(); ?>">
       <div class="l p">
       V
       </div>
