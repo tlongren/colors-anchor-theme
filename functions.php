@@ -1,10 +1,4 @@
 <?php
-
-// New Relic!!
-if (extension_loaded('newrelic')) {
-  newrelic_set_appname('vpsstat.us test');
-}
-
 /*
 	Custom theme functions
 
