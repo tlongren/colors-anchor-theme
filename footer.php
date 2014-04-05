@@ -20,7 +20,7 @@
         </div> 
       </div>
       <div class="large-4 columns">
-        <p id="login-link"><a href="http://vpsstat.us/">VPSstat.us</a></p>
+        <p id="login-link"><a href="<?php echo base_url(); ?>"><?php echo site_name(); ?></a></p>
       </div>
     </div>
   </div> 
