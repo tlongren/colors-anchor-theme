@@ -1,0 +1,5 @@
+Theme name:    VPSstat.us
+Description:   Bold colors and flat design
+Author name:   Tyler Longren
+Author site:   http://longren.org/
+License:       http://licence.visualidiot.com

@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <title><?php echo page_title('Page can’t be found'); ?> - <?php echo site_name(); ?></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="<?php echo site_description(); ?>">
+<!-- Le styles -->
+<link rel="stylesheet" href="<?php echo theme_url('/css/foundation.css'); ?>">
+<link rel="stylesheet" href="<?php echo theme_url('/css/style.css'); ?>">
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="<?php echo theme_url('/css/sharing.css'); ?>">
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+try {
+reinvigorate.track("6q37m-6x63boym4j");
+} catch(err) {}
+</script>
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '51f31818f5a1f54018000001');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77935-21', 'vpsstat.us');
+  ga('send', 'pageview');
+
+</script>
+<script src="<?php echo theme_url('/js/vendor/custom.modernizr.js'); ?>"></script>
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="<?php echo theme_url('/img/favicon.png'); ?>">
+<?php if(customised()): ?>
+  <!-- Custom CSS -->
+  <style><?php echo article_css(); ?></style>
+
+  <!--  Custom Javascript -->
+  <script><?php echo article_js(); ?></script>
+<?php endif; ?>
+  </head>
+
+  <body>
+</head>
+<body>
+
+<!-- Nav and Banner -->
+  
+  <div class="row">
+    <div class="large-12 columns">
+      <nav id="main-nav">
+  <div class="logo">
+    <a href="/">
+      <div class="l p">
+      V
+      </div>
+      <div class="l p">
+      P
+      </div>
+      <div class="l p">
+      S
+      </div>
+      <div class="l t">
+      s
+      </div>
+      <div class="l y">
+      t
+      </div>
+      <div class="l r">
+      a
+      </div>
+      <div class="l s">
+      t
+      </div>
+      <div class="l p">
+      .
+      </div>
+      <div class="l t">
+      u
+      </div>
+      <div class="l y">
+      s
+      </div>
+    </a>
+  </div>
+  <a href="https://vpsstat.us/"><span>Main Site</span></a>
+  <a href="https://vpsstat.us/signup/"><span>Signup</span></a>
+  <a href="https://vpsstat.us/contact/"><span>Contact</span></a>
+</nav>      <!-- Main Banner Image - place in a paragraph to enforce the modular scale spacing -->
+    </div>
+  </div>
+  
+  <!-- End Nav and Banner -->
