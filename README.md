@@ -1,6 +1,6 @@
 #Colors
 
-A colorful, minimal (and responsive) theme for [AnchorCMS.](http://anchorcms.com)
+A colorful, minimal (and responsive) theme for [AnchorCMS](http://anchorcms.com). You can see it in action at the [VPSstat.us Blog](http://blog.vpsstat.us).
 
 ---
 
@@ -12,3 +12,7 @@ A colorful, minimal (and responsive) theme for [AnchorCMS.](http://anchorcms.com
 
 ##Issues
 I'll be cleaning this up lots over the next few weeks, so hang off on reporting issues until this is gone from the readme. Thanks!
+
+##Screenshot
+Who doesn't love screenshots?
+![Colors Screenshot](https://raw.githubusercontent.com/tlongren/colors-anchor-theme/master/screenshot.png "Colors Screenshot")
