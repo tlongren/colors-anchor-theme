@@ -16,6 +16,14 @@ A colorful, minimal (and responsive) theme for [AnchorCMS](http://anchorcms.com)
 ##Issues
 I'll be cleaning this up lots over the next few weeks, so hang off on reporting issues until this is gone from the readme. Thanks!
 
+##How to Contribute
+I'd **happily** welcome any pull requests, so feel free to contribute! Here's how!
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
 ##Screenshot
 Who doesn't love screenshots?
 ![Colors Screenshot](https://raw.githubusercontent.com/tlongren/colors-anchor-theme/master/screenshot.png "Colors Screenshot")
