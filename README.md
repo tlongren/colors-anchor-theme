@@ -2,6 +2,9 @@
 
 A colorful, minimal (and responsive) theme for [AnchorCMS](http://anchorcms.com). You can see it in action at the [VPSstat.us Blog](http://blog.vpsstat.us).
 
+##Why
+[VPSstat.us is bust](http://blog.vpsstat.us/posts/open-sourcing-our-solusvm-monitor-and-closing). So, figured I'd release the AnchorCMS theme to the community.
+
 ---
 
 ##Usage
