@@ -2,10 +2,10 @@
 
 A colorful, minimal (and responsive) theme for [AnchorCMS](http://anchorcms.com). You can see it in action at the [VPSstat.us Blog](http://blog.vpsstat.us).
 
+---
+
 ##Why
 [VPSstat.us is bust](http://blog.vpsstat.us/posts/open-sourcing-our-solusvm-monitor-and-closing). So, figured I'd release the AnchorCMS theme to the community.
-
----
 
 ##Usage
 
@@ -17,7 +17,6 @@ A colorful, minimal (and responsive) theme for [AnchorCMS](http://anchorcms.com)
 I'll be cleaning this up lots over the next few weeks, so hang off on reporting issues until this is gone from the readme. Thanks!
 
 ##How to Contribute
-I'd **happily** welcome any pull requests, so feel free to contribute! Here's how!
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
